@@ -1,0 +1,197 @@
+[33mcommit ecf82ea982a62a6e129752f8c6f0dbf9f89332bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fl1xcy <joakim.langaard.stranden@gmail.com>
+Date:   Thu Mar 6 13:45:16 2025 +0100
+
+    oppdatert .gitignore
+
+[33mcommit 6fbb4f63215802f31737f4cb8aeb5c4fbc3600f2[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Thu Mar 6 12:54:15 2025 +0100
+
+    Lagt til slides
+
+[33mcommit 50fe896e1589c9d64343d9962cf9f1977476e346[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Tue Mar 4 20:16:19 2025 +0100
+
+    Lagt til kort oppklaring
+
+[33mcommit 9d4a00030e2022f18feb84ef6e1a796ff92ee9ad[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Tue Mar 4 20:10:08 2025 +0100
+
+    Ferdig oppgave 8
+
+[33mcommit 860cd9afa5653113c7009d0ed4f217eed65c4d92[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Tue Mar 4 19:01:53 2025 +0100
+
+    Lagt til 'push' i oppgave 5
+
+[33mcommit 16e1169ac899a330e25d1aa279c9389a891cc64b[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Mon Mar 3 20:46:43 2025 +0100
+
+    Ferdig oppgave 7
+
+[33mcommit 462c922e65cf75682184ecdaf6bce1e5d4894df2[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Mon Mar 3 20:33:33 2025 +0100
+
+    Litt rettelser + start oppgave 7
+
+[33mcommit b2a1b4d3c70752bfeb31151c51f3c0293171d965[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 20:22:45 2025 +0100
+
+    Ferdig Oppgave 6
+
+[33mcommit 0df57f625a49caf2ef54ab3f999420bbaec66b1a[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 20:21:59 2025 +0100
+
+    oppgave 6, start rebase
+
+[33mcommit 910ecfc1d8d6966c22ec2e5572edd7b27f8ffd0b[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 19:56:14 2025 +0100
+
+    Litt mere oppgave 6
+
+[33mcommit 369d94fd65e6d78a27900d0d3fe24e9715dae0e0[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 19:03:48 2025 +0100
+
+    Start Oppgave 6
+
+[33mcommit 36e0ece145734c8e90652976aaab4b8075d48169[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 15:45:03 2025 +0100
+
+    ferdig oppgave 5
+
+[33mcommit 08f8b0f0832cb3bd80e230ce0269891c2cd8bb6e[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 15:34:58 2025 +0100
+
+    Oppgave 5 merge
+
+[33mcommit 46ccbe2c768ff3b02f6a52f34ff953a0b3ddb1fc[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 15:11:38 2025 +0100
+
+    Litt mere oppgave 5
+
+[33mcommit 1c5a0c00e3c6f8a237e894400a1a38384610d74e[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 14:34:40 2025 +0100
+
+    Oppgave 4 pluss start oppgave 5
+
+[33mcommit e0351eef666505037f6736280a42b0d4f896e772[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 13:53:04 2025 +0100
+
+    mere oppgave 4
+
+[33mcommit e93750dc9b6343d50f00b2cc12ba72504c6716a9[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 13:31:39 2025 +0100
+
+    Fikset typos
+
+[33mcommit 2bfc3909b4549ba8df496350849efdc4697bb2e1[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 12:04:58 2025 +0100
+
+    Start på Oppgave 4
+
+[33mcommit 1ce55f3d1f61b4a78065d513afc8aaa2d42760b0[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 11:31:44 2025 +0100
+
+    Liten endring i readme
+
+[33mcommit 60e9d8d419ce68249225a44dcdb0dafb76ee86b2[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sun Mar 2 11:18:48 2025 +0100
+
+    liten fiks på Oppgave 3
+
+[33mcommit 3803950ec9b080413bc9e10cc147d54b89b89fdf[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 18:41:53 2025 +0100
+
+    Litt mere Oppgave 3
+
+[33mcommit a1ceba74d17a89d6ec8bd00d73164f50af6ed994[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 18:21:32 2025 +0100
+
+    Start på Oppgave 3
+
+[33mcommit 4e387c01cc09627f91c9fe9c00fc35d5097c7f29[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 14:30:33 2025 +0100
+
+    Lagt til gitconfig
+
+[33mcommit 96f731a908b837b20392f460dffff63fe74c0ada[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 13:00:39 2025 +0100
+
+    fikset Oppgave 1 fremgangsmåte
+
+[33mcommit 9c8031c54d59aa8c97956c23b36c68f33076b929[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 12:53:31 2025 +0100
+
+    Fikset fremgangsmåter og lagt til fork-opsjon
+
+[33mcommit 392eaefcd71260db6dd9ea46040508f8774de415[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 11:44:25 2025 +0100
+
+    Lagt til lokalt repo i ignore
+
+[33mcommit 1e725bfdcbd2df9071d2ad3996cf6db99925f8a4[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 11:31:31 2025 +0100
+
+    Ny strategi lokalt repo
+
+[33mcommit 7c0bdb5ffc6caeca5e6fb02d9a5b7af6737ffbd4[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 11:20:39 2025 +0100
+
+    fikset repo.git, i hope
+
+[33mcommit f8335804f76fc4302e99f2e4e355669957832f04[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Sat Mar 1 11:16:51 2025 +0100
+
+    litt endringer i beskrivelse oppgave 1
+
+[33mcommit 8c7979257c62e0b386208ea73bc67cb48528d56c[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Fri Feb 28 20:26:29 2025 +0100
+
+    Oppgave 2, del 1
+
+[33mcommit fda71e269e718c0880115e13accf1b7830296e5d[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Fri Feb 28 18:35:41 2025 +0100
+
+    Lagt til lokalt repo
+
+[33mcommit 1f9eb8b3550e5a67c7d45ae47bfb8b3a1188a28e[m
+Author: Kristian Berg <rasmantutagmail.com>
+Date:   Fri Feb 28 16:14:14 2025 +0100
+
+    README og Oppgave 1
+
+[33mcommit a0f29f855e8f858b5c3696766b489b66ed1ebfeb[m
+Author: Kristian Berg <rasmantuta@gmail.com>
+Date:   Wed Feb 26 22:32:36 2025 +0100
+
+    Initial commit
